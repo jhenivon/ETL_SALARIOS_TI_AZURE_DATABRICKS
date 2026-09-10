@@ -1,4 +1,3 @@
-```markdown
 # ETL_SALARIOS_TI — Azure Databricks
 
 ## 1. 📌 Descrição
@@ -134,4 +133,4 @@ As consultas SQL utilizadas para responder às cinco perguntas estão disponíve
 
 - 💻 GitHub: [Genivon Silva](https://github.com/jhenivon)
 - 🔗 LinkedIn: [https://www.linkedin.com/in/genivon-silva-69bb9b9b/](https://www.linkedin.com/in/genivon-silva-69bb9b9b/)
-```
+
